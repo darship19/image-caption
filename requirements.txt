@@ -1,3 +1,4 @@
+keras-self-attention==0.51.0
 absl-py==1.4.0
 altair==5.1.0
 astunparse==1.6.3
@@ -85,4 +86,3 @@ watchdog==3.0.0
 Werkzeug==2.3.7
 wrapt==1.14.1
 zipp==3.16.2
-keras-self-attention==0.51.0
