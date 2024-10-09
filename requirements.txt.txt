@@ -1,4 +1,5 @@
 numpy==1.23.5
+pip install keras-self-attention
 pandas==2.0.3
 streamlit==1.38.0
 streamlit-option-menu==0.3.2
