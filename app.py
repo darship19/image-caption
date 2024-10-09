@@ -1,4 +1,4 @@
-from keras_self_attention import SeqSelfAttention
+import SeqSelfAttention
 
 import streamlit as st
 import numpy as np
