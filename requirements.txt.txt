@@ -10,6 +10,7 @@ altair==5.1.0
 astunparse==1.6.3
 attrs==23.1.0
 blinker==1.6.2
+keras-self-attention
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
