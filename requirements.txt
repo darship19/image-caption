@@ -1,5 +1,4 @@
 numpy==1.23.5
-pip install keras-self-attention
 pandas==2.0.3
 streamlit==1.38.0
 streamlit-option-menu==0.3.2
@@ -89,3 +88,6 @@ watchdog==3.0.0
 Werkzeug==2.3.7
 wrapt==1.14.1
 zipp==3.16.2
+
+keras-self-attention @ file:C:\Users\darsh\Downloads\New folder (3)\keras-self-attention-0.51.0\keras-self-attention-0.51.0///path/to/your/downloaded/keras-self-attention-0.51.0.tar.gz
+
