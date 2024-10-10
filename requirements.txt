@@ -86,3 +86,4 @@ watchdog==3.0.0
 Werkzeug==2.3.7
 wrapt==1.14.1
 zipp==3.16.2
+setuptools>=40.8.0
