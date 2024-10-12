@@ -8,7 +8,6 @@ wordcloud==1.9.3
 glob2==0.7
 opencv-python==4.9.0.80
 imgaug==0.4.0
-pickle5==0.0.12
 keras==3.4.1
 keras-self-attention==0.51.0
 streamlit==1.39.0
