@@ -43,5 +43,5 @@ The **Flickr8k** dataset is used for training and evaluation. This dataset conta
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/automatic-image-captioning.git
+   git clone https://github.com/darship19/image-caption.git
    cd automatic-image-captioning
