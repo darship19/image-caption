@@ -20,9 +20,9 @@ This project aims to build and compare different deep learning models to automat
 
 1. [**Transformer Model**](https://github.com/<username>/<repository-name>/wiki/Transformer-Model): This model uses a transformer-based architecture, known for handling sequential data and generating text. It leverages self-attention mechanisms to generate captions for images.
 
-2. [**CNN + LSTM Model**](https://github.com/<username>/<repository-name>/wiki/CNN-LSTM-Model): A convolutional neural network (CNN) is used for image feature extraction, and a long short-term memory (LSTM) network is used for generating captions based on these features. This model has been popular for image captioning tasks.
+2. [**CNN + LSTM Model**](https://github.com/darship19/image-caption/wiki/Transformer-Model): A convolutional neural network (CNN) is used for image feature extraction, and a long short-term memory (LSTM) network is used for generating captions based on these features. This model has been popular for image captioning tasks.
 
-3. [**CNN + LSTM with Attention Layer Model**](https://github.com/darship19/image-caption/wiki/CNN%E2%80%90LSTM%E2%80%90with%E2%80%90Attention): This model extends the CNN + LSTM architecture by adding an attention mechanism, allowing the model to focus on different parts of the image while generating each word in the caption.
+3. [**CNN + LSTM with Attention Layer Model**](https://github.com/darship19/image-caption/wiki/cnn%E2%80%90lstm): This model extends the CNN + LSTM architecture by adding an attention mechanism, allowing the model to focus on different parts of the image while generating each word in the caption.
 
 
 
